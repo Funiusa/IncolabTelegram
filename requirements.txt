@@ -1,0 +1,6 @@
+numpy~=1.23.4
+pandas~=1.5.1
+
+openpyxl~=3.0.10
+aiogram~=2.23.1
+python-dotenv~=0.21.0
